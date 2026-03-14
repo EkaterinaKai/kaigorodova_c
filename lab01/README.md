@@ -28,3 +28,5 @@
 
 ## Компиляция и запуск
 ```bash
+gcc -o taskN taskN.c
+./taskN
