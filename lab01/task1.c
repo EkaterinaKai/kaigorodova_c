@@ -6,3 +6,5 @@ int main() {
     printf("a = %d\nd = %.2f\nc = %c\n", a, b, c);
     return 0;
 }
+
+
